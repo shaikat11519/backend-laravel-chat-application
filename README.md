@@ -17,6 +17,12 @@
 git checkout dev
 ```
 
+### Database name
+
+```
+chatApp
+```
+
 ### Running the project
 Follow the below steps:
 
